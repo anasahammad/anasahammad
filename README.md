@@ -1,6 +1,6 @@
 ![MasterHead](https://i.ibb.co/HNgfVQQ/Navy-Blue-Geometric-Technology-Linked-In-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Anas Ahammad Sarker</h1>
-<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
+<h3 align="left">👨‍💻 I am  a MERN Stack (Frontend) Developer from Bangladesh, I transform your ideas into functional, high-quality web applications. With a strong drive, collaborative spirit, and a knack for rapid learning, I bring passion and expertise to every project I undertake ✌️</h3>
 <img  align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasahammad&label=Profile%20views&color=0e75b6&style=flat" alt="anasahammad" /> </p>
